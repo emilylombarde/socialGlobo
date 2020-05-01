@@ -1,0 +1,17 @@
+{
+  "name": "SocialGlobo",
+  "displayName": "SocialGlobo",
+  "expo": {
+    "name": "SocialGlobo",
+    "slug": "SocialGlobo",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
